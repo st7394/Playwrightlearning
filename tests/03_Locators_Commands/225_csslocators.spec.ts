@@ -29,5 +29,4 @@ test("locators are lazy, strict, and auto-wait", async ({ page }) => {
         console.log(span_ith);
     }
 
-
 });
