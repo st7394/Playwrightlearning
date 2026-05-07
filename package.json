@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "playwright test"
+    "test": "playwright test",
+    "report": "allure serve allure-results",
+    "test:allure": "playwright test & allure serve allure-results",
+    "generate": "allure generate allure-results -o allure-report --clean",
+    "test:generate": "playwright test & allure generate allure-results -o allure-report --clean"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +16,9 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.59.1",
-    "@types/node": "^25.6.0"
+    "@types/node": "^25.6.0",
+    "allure-commandline": "^2.40.0",
+    "allure-js-commons": "^3.7.2",
+    "allure-playwright": "^3.7.2"
   }
 }
