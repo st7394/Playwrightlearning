@@ -1,0 +1,8 @@
+{
+  "vehicleName": "Hyundai",
+  "ownerName": "Saumitra",
+  "regNumber": "2012",
+  "vehicleType": "Hatchback",
+  "year": "2015",
+  "notes": "Amazing car with amazing family car in a budget"
+}
