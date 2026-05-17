@@ -1,2 +1,0 @@
-Type :prompt
-Message: I am a JS prompt

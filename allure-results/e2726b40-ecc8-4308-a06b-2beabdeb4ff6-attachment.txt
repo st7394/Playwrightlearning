@@ -1,7 +1,0 @@
-Total rows found: 10
-Row 0 username: Aarav.Sharma
-Row 1 username: Priya.Nair
-Row 2 username: Rohan.Mehta
-Row 3 username: Ananya.Iyer
-Row 4 username: Kabir.Khan
-Checked checkbox for Kabir.Khan

@@ -1,3 +1,0 @@
-Number of rows: 7
-Number of columns: 3
-/table[@id="customers"]/tbody/tr[2]/td[1]

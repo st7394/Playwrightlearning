@@ -1,2 +1,0 @@
-Type :confirm
-Message: I am a JS Confirm

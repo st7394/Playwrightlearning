@@ -1,2 +1,0 @@
-Type :alert
-Message: I am a JS Alert
